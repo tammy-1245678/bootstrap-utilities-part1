@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 400px; /* Adjust height as needed */
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #f8f9fa;
+}
